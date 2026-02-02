@@ -24,15 +24,22 @@ description: >- # this means to ignore newlines until "baseurl:"
   this site is a place for me to display past data science projects
   so that I, future employers, or just anyone interested in them can look 
   back on them.
-baseurl: "https://maxwellman2323-cloud.github.io" # the subpath of your site, e.g. /blog
-url: "/Portfolio" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
+url: "https://maxwellman2323-cloud.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  maxwellman2323-cloud
+author:
+  name: "Max Wellman"
+  #avatar: put headshot here
+  bio: "Data Science and Mathematics major looking for oportunities in ML, analytics, and visualization."
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
