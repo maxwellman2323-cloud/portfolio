@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: single
 title: "projects"
+author_profile: true
 permalink: /projects/
 ---
 
