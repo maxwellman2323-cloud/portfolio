@@ -6,3 +6,5 @@ layout: home
 title: "Home"
 author_profile: true
 ---
+
+This is a test
