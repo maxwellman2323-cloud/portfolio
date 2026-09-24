@@ -9,3 +9,5 @@ author_profile: true
 
 #Hi, I'm Max Wellman
 I'm a senior at Truman state university with majors in data science and mathematics. I am currently looking for entry level roles in data analysis.
+
+You can contact me at maxwellman2323@gmail.com
