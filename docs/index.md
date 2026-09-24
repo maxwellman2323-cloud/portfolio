@@ -7,7 +7,7 @@ title: "Home"
 author_profile: true
 ---
 
-#Hi, I'm Max Wellman
+Hi, I'm Max Wellman
 I'm a senior at Truman state university with majors in data science and mathematics. I am currently looking for entry level roles in data analysis.
 You can see examples of my past projects in the [projects](projects.md) tab.
 
