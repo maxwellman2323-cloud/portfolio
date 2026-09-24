@@ -7,4 +7,5 @@ title: "Home"
 author_profile: true
 ---
 
-This is a test
+#Hi, I'm Max Wellman
+I'm a senior at Truman state university with majors in data science and mathematics. I am currently looking for entry level roles in data analysis.
