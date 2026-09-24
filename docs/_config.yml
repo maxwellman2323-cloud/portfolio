@@ -30,7 +30,7 @@ url: "https://maxwellman2323-cloud.github.io" # the base hostname & protocol for
 github_username:  maxwellman2323-cloud
 author:
   name: "Max Wellman"
-  #avatar: put headshot here
+  avatar: "/assets/Professional_photo.jpg"
   bio: "Data Science and Mathematics major looking for oportunities in ML, analytics, and visualization."
 
 # Build settings
