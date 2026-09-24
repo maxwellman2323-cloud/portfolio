@@ -1,10 +1,9 @@
 ---
 layout: single
-title: About
+title: About me
 permalink: /about/
 ---
 
-##About me:
 
 I enjoy playing complex board games, reading books, and playing tennis. 
 
